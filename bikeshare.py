@@ -219,7 +219,12 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
+def GPA():
+    print("5 out of 5")
 
+def printinfo():
+    print("Shahad Zeyad")
+    print("MIS")    
 
 if __name__ == "__main__":
 	main()
