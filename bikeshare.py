@@ -222,5 +222,8 @@ def main():
 def GPA():
     print("5 out of 5")
 
+def printinfo():
+    print("Shahad Zeyad")    
+
 if __name__ == "__main__":
 	main()
